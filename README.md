@@ -1,4 +1,4 @@
-### Project Three - 100DaysofCode
+### Project Four - 100DaysofCode
 # Countdown Timer
 This is a simple program that collects an input *t* from the user and passes it into a function to start a countdown in seconds. 
 
